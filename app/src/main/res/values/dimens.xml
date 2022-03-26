@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Enterprise_Font_Size">22sp</dimen>
+    <dimen name="Name_Font_Size">18sp</dimen>
+    <dimen name="Title_Font_Size">28sp</dimen>
+    <dimen name="Default_Margin">16dp</dimen>
+    <dimen name="Top_Margin">8dp</dimen>
+</resources>
